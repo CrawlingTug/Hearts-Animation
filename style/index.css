@@ -1,0 +1,16 @@
+.in {
+    position: absolute;
+}
+
+#para {
+    transform: rotate(15deg);
+    margin-left: 17.3rem;
+    margin-top: 26rem;
+}
+
+
+#heart {
+    transform: rotate(15deg);
+    margin-left: 15.3rem;
+    margin-top: 24.3rem;
+}
