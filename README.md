@@ -1,5 +1,5 @@
 # Hearts-Animation
-A small HTML/CSS heart animation that is triggered with one click.
+A small, responsive HTML/CSS heart animation that is triggered with one click.
 
 
 # Preview Image
